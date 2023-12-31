@@ -1,4 +1,4 @@
-# How to use!?!??
+# How to use?:
 1.Install python
 
 2.Open console
@@ -16,7 +16,7 @@ Star the repo if it worked and if not make an issue! ✨💖
 
 Quick run in the cloud
 
-# Run on Replit
+# Run on Replit:
 Download file and copy it , paste it in replit ⭐
 
 # Constructors:
